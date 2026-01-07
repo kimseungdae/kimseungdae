@@ -50,13 +50,6 @@ const KimSeungDae = {
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimseungdae&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimseungdae&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
@@ -77,8 +70,8 @@ const KimSeungDae = {
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [typescript 의 ANY사용에 설계 타협점]([https://blog-link](https://velog.io/@bambam/typescript-%EC%9D%98-ANY%EC%82%AC%EC%9A%A9%EC%97%90-%EC%84%A4%EA%B3%84-%ED%83%80%ED%98%91%EC%A0%90))
-- [마이크로프론트엔드 아키텍처]([https://blog-link](https://velog.io/@bambam/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2024-2025)
+- [typescript 의 ANY사용에 설계 타협점](https://velog.io/@bambam/typescript-%EC%9D%98-ANY%EC%82%AC%EC%9A%A9%EC%97%90-%EC%84%A4%EA%B3%84-%ED%83%80%ED%98%91%EC%A0%90)
+- [마이크로프론트엔드 아키텍처](https://velog.io/@bambam/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2024-2025)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🌟 Featured Projects
